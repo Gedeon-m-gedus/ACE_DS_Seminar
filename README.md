@@ -1,2 +1,4 @@
 # ACE_DS_Seminar
-Sample codes for a seminar on Biodiversity at UR
+
+Seminar theme **“Building Solutions to the Biodiversity protection using
+Machine Learning Algorithm: An Invest Model perspective”**
