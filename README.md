@@ -1,7 +1,7 @@
 # ACE_DS_Seminar
 
 Seminar theme **“Building Solutions to the Biodiversity protection using
-Machine Learning Algorithm: An Invest Model perspective”**
+Machine Learning Algorithm: Model perspective”**
 
 ## What is Biodiversity (Biological Diversity)?
 ![alt text](images/intro.png "Title")
