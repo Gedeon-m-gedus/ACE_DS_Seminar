@@ -1,4 +1,4 @@
-# ACE_DS_Seminar
+# ACE-DS Seminar
 
 Seminar theme **“Building Solutions to the Biodiversity protection using
 Machine Learning Algorithm: Model perspective”**
